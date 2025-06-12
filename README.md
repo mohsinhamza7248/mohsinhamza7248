@@ -16,14 +16,11 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/naveed-amir-2639051b4" target="_blank">
+  <a href="https://www.linkedin.com/in/mohsin-ansari-195817254" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
   </a>
   <a href="https://stackoverflow.com/users/14013830" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40">
-  </a>
-  <a href="https://www.youtube.com/channel/UCGaYiIpVOEzUWWS9A1zrodQ" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40">
   </a>
   <a href="https://auth.geeksforgeeks.org/user/mohsinha0fi7" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40">
@@ -140,7 +137,7 @@
   <div>  <h3 style="text-align: center;">🚀 Connect with me</h3>
   <h3 style="text-align: center;">⭐ PROFILE HIGHLIGHTS ⭐</h3> 
   <ul style="list-style-type: none; padding: 0;">
-    <li>✔️ Know about my experiences on <a href="https://drive.google.com/file/d/1nWjNKuuwG8NQw5qj-8ek65qoIls63JQh/view?usp=drivesdk">CV</a></li>
+    <li>✔️ Know about my experiences on <a href="https://drive.google.com/file/d/1q7DxjSeIVd1DiAB7cGDKy4cnzg55ofcM/view?usp=drive_link">CV</a></li>
     <li>✔️ Experienced in Software Development</li>
     <li>✔️ Passionate about Open Source Contributions</li>
     <li>✔️ Excellent Communication and Teamwork Skills</li>
