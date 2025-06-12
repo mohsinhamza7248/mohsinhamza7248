@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/mohsin-ansari-195817254" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
   </a>
-  <a href="https://stackoverflow.com/users/14013830" target="_blank">
+  <a href="https://stackoverflow.com/users/30783439" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40">
   </a>
   <a href="https://auth.geeksforgeeks.org/user/mohsinha0fi7" target="_blank">
