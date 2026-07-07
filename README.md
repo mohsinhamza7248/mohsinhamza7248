@@ -137,7 +137,7 @@
   <div>  <h3 style="text-align: center;">🚀 Connect with me</h3>
   <h3 style="text-align: center;">⭐ PROFILE HIGHLIGHTS ⭐</h3> 
   <ul style="list-style-type: none; padding: 0;">
-    <li>✔️ Know about my experiences on <a href="https://drive.google.com/file/d/1qwzHrkr82IpBwUiLE8xzvNcqPDrUV47o/view?usp=drive_link">CV</a></li>
+    <li>✔️ Know about my experiences on <a href="https://drive.google.com/file/d/1RAbM_FLWQ8JSUUkckZqrc6VluMrAFCDT/view">CV</a></li>
     <li>✔️ Experienced in Software Development</li>
     <li>✔️ Passionate about Open Source Contributions</li>
     <li>✔️ Excellent Communication and Teamwork Skills</li>
